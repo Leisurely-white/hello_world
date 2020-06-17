@@ -6,3 +6,5 @@ print(b)
 
 c = "第三次变量"
 print(c)
+
+print("测试不用密码推")
